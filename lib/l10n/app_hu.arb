@@ -1,0 +1,33 @@
+{
+    "settings": "Beállítások",
+    "settingsFirstNumberDigits": "Az első számjegyek",
+    "settingsSecondNumberDigits": "A második számjegyek",
+    "language": "Nyelv",
+    "general": "Általános",
+    "theme": "Téma",
+    "lightTheme": "Világos téma",
+
+    "addition": "Összeadás",
+    "substraction":  "Kivonás",
+    "multiplication": "Szorzás",
+    "division": "Osztás",
+
+    "add": "Hozzáadás",
+    "sub": "Kivonás",
+    "multi": "Szorzás",
+    "div": "Osztás",
+
+    "done": "Kész",
+
+    "takePicutre": "Fotó készítése",
+    "cropImage": "Kép vágása",
+    "detectedEquation": "Felismert egyenlet",
+    "result": "Eredmény",
+
+    "first": "első",
+    "second": "második",
+
+    "invalidReading": "Érvénytelen olvasat",
+    "pleaseTryAgain": "Kérlek próbáld újra",
+    "ok": "Rendben"
+}

@@ -1,0 +1,33 @@
+{
+    "settings": "Postavke",
+    "settingsFirstNumberDigits": "Znamenke prvog broja",
+    "settingsSecondNumberDigits": "Znamenke drugog broja",
+    "language": "Jezik",
+    "general": "Općenito",
+    "theme": "Tema",
+    "lightTheme": "Svijetla tema",
+
+    "addition": "Zbrajanje",
+    "substraction":  "Oduzimanje",
+    "multiplication": "Množenje",
+    "division": "Dijeljenje",
+
+    "add": "Zbroji",
+    "sub": "Oduzmi",
+    "multi": "Pomnoži",
+    "div": "Podijeli",
+
+    "done": "U redu",
+
+    "takePicutre": "Slikaj",
+    "cropImage": "Obreži sliku",
+    "detectedEquation": "Detektirana jednadžba",
+    "result": "Rezultat",
+
+    "first": "prvi",
+    "second": "drugi",
+
+    "invalidReading": "Pogrešno ocitavanje",
+    "pleaseTryAgain": "Pokušaj ponovno",
+    "ok": "Ok"
+}

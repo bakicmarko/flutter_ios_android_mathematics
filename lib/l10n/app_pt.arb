@@ -1,0 +1,33 @@
+{
+    "settings": "Configurações",
+    "settingsFirstNumberDigits": "Dígitos do primeiro número",
+    "settingsSecondNumberDigits": "Dígitos do segundo número",
+    "language": "Idioma",
+    "general": "Geral",
+    "theme": "Tema",
+    "lightTheme": "Tema claro",
+
+    "addition": "Adição",
+    "substraction":  "Subtração",
+    "multiplication": "Multiplicação",
+    "division": "Divisão",
+
+    "add": "Adicionar",
+    "sub": "Subtrair",
+    "multi": "Multiplicar",
+    "div": "Dividir",
+
+    "done": "Concluído",
+
+    "takePicutre": "Tirar uma foto",
+    "cropImage": "Recortar imagem",
+    "detectedEquation": "Equação detectada",
+    "result": "Resultado",
+
+    "first": "primeiro",
+    "second": "segundo",
+
+    "invalidReading": "Leitura inválida",
+    "pleaseTryAgain": "Tente novamente",
+    "ok": "Ok"
+}
